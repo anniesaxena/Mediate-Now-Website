@@ -1,1 +1,1 @@
-# Mediate-Now-Website
+# Meditate-Now-Website
